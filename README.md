@@ -18,3 +18,7 @@ Multi-step prediction – models trajectories across multiple stages rather than
 Memory of past events – accounts for historical context when predicting future states.
 
 Trajectory modeling – captures smooth state transitions instead of only predicting endpoints.
+
+
+
+# Work in progress.....
