@@ -1,7 +1,7 @@
 # Event-Conditioned-Compositional-Flow-with-Memory
 
 Event-Conditioned Compositional Flow Dynamics with Memory (ECFD-M) 
-is a model designed to learn how systems evolve under sequences of events or perturbations. 
+is a neural network designed to learn how systems evolve under sequences of events or perturbations. 
 It focuses on capturing how individual events transform system states and how these transformations combine over time.
 
 
